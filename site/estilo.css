@@ -1,0 +1,4 @@
+/* OFICINA: troque a cor de fundo e veja a página mudar */
+body { margin: 0; font-family: system-ui, sans-serif; background: #f6f7fb; color: #1f2430; }
+main { max-width: 640px; margin: 64px auto; padding: 32px; background: #ffffff; border-radius: 16px; }
+h1 { font-size: 28px; }
